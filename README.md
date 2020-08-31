@@ -2,7 +2,7 @@
 ## My name is __Brecht__  
 
 ### I am a junior developer
-- :beer: from Belgium 
+- :flag_be: from Belgium 
 - :flashlight: Currently looking for an opportunity as ***front-end developer***
 - :school_satchel: Eager to learn anything
 - :goal_net: Current goal: Getting hands on work experience 
