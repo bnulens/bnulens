@@ -3,8 +3,8 @@
 
 ### I am a junior developer
 - :beer: from Belgium 
-- :telescope: Currently looking for an opportunity as ***front-end developer***
-- :school_satchel: Can learn anything
+- :flashlight: Currently looking for an opportunity as ***front-end developer***
+- :school_satchel: Eager to learn anything
 - :goal_net: Current goal: Getting hands on work experience 
 - :zap: Huge history nerd and vinyl record enthousiast. 
 
