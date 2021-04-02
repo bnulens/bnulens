@@ -8,7 +8,7 @@
 - :goal_net: Current goal: Getting hands on work experience 
 - :zap: Huge history nerd and vinyl record enthousiast. 
 
-#### Tools I like to tinker with:  
+#### Tools I like to use:  
 
 [<img alt="Html5" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/html5-19-722707.png">]()
 [<img alt="Css3" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png">]()
