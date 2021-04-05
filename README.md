@@ -28,5 +28,5 @@
 - My [portfolio](https://brechtnulens.be/) made with Gatsby.
 
 > Feel free to get in touch through: 
-[<img alt="linkedin" width="20px" src="https://img.icons8.com/fluent/344/linkedin.png">](https://www.linkedin.com/in/brecht-nulens/) OR 
+[<img alt="linkedin" width="26px" src="https://img.icons8.com/fluent/344/linkedin.png">](https://www.linkedin.com/in/brecht-nulens/) OR 
 [:mailbox:](mailto:brechtnulens@gmail.com) Gmail
