@@ -5,8 +5,8 @@
 - :belgium: Living in Hasselt, Belgium 
 - :flashlight: Currently looking for an opportunity as ***front-end developer***
 - :school_satchel: Eager to learn anything
-- :goal_net: Current goal: Getting hands on work experience 
-- :zap: Huge history nerd and vinyl record enthousiast. 
+- :pushpin: Current goal: Getting hands on work experience 
+- :zap: Quiz nights enthousiast
 
 #### Tools I like to use:  
 
@@ -25,8 +25,8 @@
 
 ### Ongoing projects:  
 - A [website](https://epic-galileo-8a7f26.netlify.app/) made with Gatsby. 
-- My [portfolio](https://cocky-goodall-c29906.netlify.app) made with Gatsby.
+- My [portfolio](https://brechtnulens.be/) made with Gatsby.
 
 > Feel free to get in touch through: 
 [<img alt="linkedin" width="20px" src="https://camo.githubusercontent.com/b65faae8871ebbdb99790f2644ea7f3c89800b0c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667">](https://www.linkedin.com/in/brecht-nulens/) OR 
-[:email:](mailto:brechtnulens@gmail.com) Gmail
+[:mailbox:](mailto:brechtnulens@gmail.com) Gmail
