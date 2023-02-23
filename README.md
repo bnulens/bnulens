@@ -3,9 +3,9 @@
 
 ### I am a junior developer
 - :belgium: Living in Hasselt, Belgium 
-- :flashlight: Currently looking for an opportunity as ***front-end developer***
-- :school_satchel: Eager to learn anything
-- :pushpin: Current goal: Getting hands on work experience 
+- :flashlight: Enrolled at ***PXL Hasselt*** 2023
+- :school_satchel: Bachelor Applied Information Technology
+- :pushpin: Current goal: To pass with flying colors
 - :zap: Quiz nights enthousiast
 
 #### Tools I like to use:  
