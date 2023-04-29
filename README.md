@@ -4,7 +4,7 @@
 ### I am a junior developer
 - :belgium: Living in Hasselt, Belgium 
 - :flashlight: Enrolled at ***PXL Hasselt*** 2023
-- :school_satchel: Bachelor Applied Information Technology
+- :school_satchel: studying Bachelor Applied Information Technology
 - :pushpin: Current goal: To pass with flying colors
 - :zap: Quiz nights enthousiast
 
