@@ -3,8 +3,7 @@
 
 ### I am a junior developer
 - :belgium: Living in Hasselt, Belgium 
-- :flashlight: Enrolled at _PXL Hasselt_ 2023
-- :school_satchel: studying **Bachelor Applied Information Technology**
+- :flashlight: Looking for a professional challenge
 - :pushpin: Current goal: To pass with flying colors
 - :zap: Quiz nights enthousiast
 
