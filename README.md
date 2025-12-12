@@ -4,7 +4,7 @@
 ### I am a junior developer
 - :belgium: Living in Hasselt, Belgium 
 - :flashlight: Looking for a professional challenge
-- :pushpin: Current goal: BEcoming a better Go developer
+- :pushpin: Current goal: Becoming a better Go developer
 - :zap: Quiz nights enthousiast
 
 #### Tools I like to use:  
